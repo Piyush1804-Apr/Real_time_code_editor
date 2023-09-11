@@ -19,7 +19,7 @@
     "uuid": "^8.3.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Piyush1804-Apr.github.io/Real_time_code_editor",
+  "homepage": "https://Piyush1804-Apr.github.io/Real_time_code_editor/",
   "scripts": {
     "start:front": "react-scripts start",
     "start": "npm run build && npm run server:prod",
